@@ -1,0 +1,7 @@
+{
+  "name": "Posso Ltd AI Voice Assistant",
+  "description": "Professional AI Voice Assistant for Posso Ltd, helping customers with ePOS systems, kiosks, and venue solutions while streamlining lead generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
